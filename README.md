@@ -8,7 +8,7 @@ He/Him
 - 💬 Ask me about
 1. Kotlin
 2. Android Architecture Components
-3. Clean Architecture
+3. Clean Architecture using MVVM
 
 - 🌱 I’m currently learning
 1. Writing idiomatic Kotlin code
