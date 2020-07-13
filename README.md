@@ -16,8 +16,7 @@ He/Him
 3. Unit testing Kotlin code
 4. Dependency Injection
 
-- 🔭 I’m currently working on
- Associate Android Developer Certification : [Study Guide](https://developers.google.com/certification/associate-android-developer/study-guide)
+- 🔭 I’m currently working on getting my [Associate Android Developer Certification](https://developers.google.com/certification/associate-android-developer/study-guide)
 
 
 - 📫 How to reach me: 
