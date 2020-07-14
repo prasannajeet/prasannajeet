@@ -2,9 +2,6 @@
 
 I am a Toronto 🇨🇦 based Android developer having 9 years of industry experience bringing a passion for developing modern Android application using Kotlin, MVVM and Clean Architecture practices. I am a self-taught, self-motivated Android developer working in this field since the wild wild west days when it was cool to write all the application code in one Activity, living through Fragments, MVP, MVVM and now looking at the new kid on the block, MVI. 
 
-- 😄 Pronouns:
-He/Him
-
 - 💬 Ask me about
 1. Kotlin
 2. Android Architecture Components
