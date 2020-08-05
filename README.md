@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I am a Toronto 🇨🇦 based Android developer having 9 years of industry experience bringing a passion for developing modern Android applications and libraries using Kotlin, MVVM and Clean Architecture practices. I am a self-taught, self-motivated Android developer working in this field since the wild wild west days when it was cool to write all the application code in one Activity, living through Fragments, MVP, MVVM and now looking at the new kid on the block, MVI. 
-
-#### Are you looking to hire an Android Developer in Toronto?
-First, check out my repos [here](https://github.com/prasannajeet?tab=repositories), then find my resume [here](https://onedrive.live.com/?cid=174375a798f46d0a&id=174375A798F46D0A%2128396&ithint=file,pdf&authkey=!AJGrFp2uPS4yNSc)
+I am a Toronto 🇨🇦 based Android developer having 9 years of industry experience bringing a passion for developing modern Android applications and libraries using Kotlin, MVVM and Clean Architecture practices. I am a self-taught, self-motivated Android developer working in this field since the wild wild west days when it was cool to write all the application code in one Activity, living through Fragments, MVP, MVVM and now looking at the new kid on the block, MVI.
 
 
 - 💬 Ask me about
