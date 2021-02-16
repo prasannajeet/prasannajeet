@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-I am a Toronto 🇨🇦 based Android developer having 9 years of industry experience bringing a passion for developing modern Android applications and libraries using Kotlin, MVVM and Clean Architecture practices. I am a self-taught, self-motivated Android developer working in this field since the wild wild west days when it was cool to write all the application code in one Activity, living through Fragments, MVP, MVVM and now looking at the new kid on the block, MVI.
+I am a Toronto 🇨🇦 based Android developer having 10 years of industry experience bringing a passion for developing modern Android applications and libraries using Kotlin, MVVM and Clean Architecture practices. I am a self-taught, self-motivated Android developer working in this field since the wild wild west days when it was cool to write all the application code in one Activity, living through Fragments, MVP, MVVM and now looking at the new kid on the block, MVI.
 
 
 - 💬 Ask me about
 1. Kotlin
 2. Android Architecture Components
 3. Clean Architecture using MVVM
+4. Writing idiomatic Kotlin code
+5. Unit testing Kotlin code
 
 - 🌱 I’m currently learning
-1. Writing idiomatic Kotlin code
-2. Model-View-Intent
-3. Unit testing Kotlin code
-4. Dependency Injection
-
-- 🔭 I’m currently working on getting my [Associate Android Developer Certification](https://developers.google.com/certification/associate-android-developer/study-guide)
+1. Jetpack Componse
+2. Dependency Injection using Hilt
+3. Compose Desktop
+4. Ktor
 
 
 - 📫 How to reach me: 
