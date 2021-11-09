@@ -8,13 +8,14 @@ I am a Toronto 🇨🇦 based Android developer having 10 years of industry expe
 2. Android Architecture Components
 3. Clean Architecture using MVVM
 4. Writing idiomatic Kotlin code
-5. Unit testing Kotlin code
-6. Using Ktor + CIO instead of Retrofit for networking in Android
+5. Using Ktor + CIO instead of Retrofit for networking in Android
+6. Jetpack Componse
 
 - 🌱 I’m currently learning
-1. Jetpack Componse
-2. Dependency Injection using Hilt
-3. Compose Desktop
+1. Blockchain on Ethereum
+2. Web 3.0
+3. Kotlin Multiplatform Mobile
+4. Compose Desktop
 
 
 - 📫 How to reach me: 
