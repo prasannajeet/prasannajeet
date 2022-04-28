@@ -12,10 +12,7 @@ I am a Toronto 🇨🇦 based Android developer having 10 years of industry expe
 6. Jetpack Componse
 
 - 🌱 I’m currently learning
-1. Blockchain on Ethereum
-2. Web 3.0
-3. Kotlin Multiplatform Mobile
-4. Compose Desktop
+1. Microsoft Azure (AZ-900)
 
 
 - 📫 How to reach me: 
