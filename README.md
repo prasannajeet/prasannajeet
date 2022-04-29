@@ -9,10 +9,10 @@ I am a Toronto 🇨🇦 based Android developer having 11 years of industry expe
 3. Clean Architecture using MVVM
 4. Writing idiomatic Kotlin code
 5. Using Ktor instead of Retrofit for networking in Android
-6. Jetpack Componse
+6. Jetpack Compose
 
 - 🌱 I’m currently learning
-1. Microsoft Azure (AZ-900)
+Microsoft Azure (AZ-900)
 
 
 - 📫 How to reach me: 
