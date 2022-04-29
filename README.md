@@ -8,7 +8,7 @@ I am a Toronto 🇨🇦 based Android developer having 10 years of industry expe
 2. Android Architecture Components
 3. Clean Architecture using MVVM
 4. Writing idiomatic Kotlin code
-5. Using Ktor + CIO instead of Retrofit for networking in Android
+5. Using Ktor instead of Retrofit for networking in Android
 6. Jetpack Componse
 
 - 🌱 I’m currently learning
