@@ -12,7 +12,8 @@ I am a Toronto 🇨🇦 based Android developer having 11 years of industry expe
 6. Jetpack Compose
 
 - 🌱 I’m currently learning
-Microsoft Azure (AZ-900)
+1. Kotlin Multiplatform Mobile
+2. iOS Programming using SwiftUI
 
 
 - 📫 How to reach me: 
