@@ -20,11 +20,9 @@ I am a Toronto 🇨🇦 based Android developer having 11 years of industry expe
 - 📫 How to reach me: 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/prasannajeet/)
 
-
+<!--
 - ⚡ Fun fact:
 I am also an amateur photographer primarily focussing on nature and urban photography [Follow me on Instagram](https://www.instagram.com/prasan.photos/)
-
-<!--
 **prasannajeet/prasannajeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
