@@ -14,6 +14,7 @@ I am a Toronto 🇨🇦 based Android developer having 11 years of industry expe
 - 🌱 I’m currently learning
 1. Kotlin Multiplatform Mobile
 2. iOS Programming using SwiftUI
+3. Unidirectional flow using Compose + MVI
 
 
 - 📫 How to reach me: 
