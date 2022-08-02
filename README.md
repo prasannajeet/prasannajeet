@@ -1,20 +1,17 @@
 ### Hi there 👋
 
-I am a Toronto 🇨🇦 based Android developer having 11 years of industry experience bringing a passion for developing modern Android applications and libraries using Kotlin, MVVM and Clean Architecture practices. I am a self-taught, self-motivated Android developer working in this field since the wild wild west days when it was cool to write all the application code in one Activity, living through Fragments, MVP, MVVM and now looking at the new kid on the block, MVI.
-
+I am a Toronto 🇨🇦 based Android developer having 11 years of industry experience bringing a passion for developing modern Android applications and libraries using Kotlin, MVVM and Clean Architecture practices along with building cross platform app experiences using React Native. I am a self-taught, self-motivated mobile developer working in this field since the wild wild west days when it was cool to write all the application code in one Activity, living through Fragments, MVP, MVVM MVI etc.
 
 - 💬 Ask me about
 1. Kotlin
-2. Android Architecture Components
-3. Clean Architecture using MVVM
+2. Clean Architecture using MVI
 4. Writing idiomatic Kotlin code
 5. Using Ktor instead of Retrofit for networking in Android
-6. Jetpack Compose
+6. Implementing MVI using React Native + Hooks
 
 - 🌱 I’m currently learning
 1. Kotlin Multiplatform Mobile
-2. iOS Programming using SwiftUI
-3. Unidirectional flow using Compose + MVI
+2. Flutter
 
 
 - 📫 How to reach me: 
