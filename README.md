@@ -1,17 +1,27 @@
 ### Hi there 👋
 
-I am a Toronto 🇨🇦 based Mobile developer with 10+ years of industry experience with a passion for developing modern mobile applications and libraries using Android, React Native, KMM with MVI and Clean Architecture practicese. I am a self-taught, self-motivated mobile developer working in this field since the wild, wild west days when it was cool to write all the application code in one Activity, living through Fragments, MVP, MVVM, MVI etc.
+I'm a Toronto 🇨🇦 based Mobile Lead Developer with 10+ years of experience crafting cutting-edge mobile solutions. I architect and develop high-performance apps using Android, React Native, Flutter, and Kotlin Multiplatform Mobile with Clean Architecture and MVI principles.
 
-- 💬 Ask me about
-1. Should you use KMM, RN, Flutter or native for your next app
-2. Clean Architecture using MVI (using hooks in RN, using StateFlows in Android/KMM)
+#### 💻 Technical Expertise
+- 📱 Experienced in multi-platform mobile development (Android, iOS, KMM, React Native, Flutter)
+- 🧪 Implemented robust architecture patterns that scale (Clean, MVVM, MVI, Redux)
+- 🚀 Experienced in modernizing legacy codebases to current best practices (Java → Kotlin, RxJava → Flow)
+- 🔄 Creator of efficient CI/CD pipelines that reduce deployment time from days to hours
 
-- 🌱 I’m currently learning
-1. Kotlin Multiplatform Mobile
-2. React Native
+#### ⚙️ DevOps & Automation
+- 🔧 Architect of end-to-end white label automation systems using GitHub Actions and Fastlane
+- 📲 Developer of continuous delivery mechanisms with CodePush and dynamic updates
+- 🏪 Manager of 100+ store applications across Google Play and App Store
+- 🛠️ Builder of custom tooling that slashes release cycles by 80%
 
+#### 👨‍💼 Engineering Leadership
+- 🌉 Bridge between technical possibilities and business requirements
+- 👥 Mentor to mobile developers, elevating team capabilities and code quality
+- 🗺️ Strategic roadmap creator for complex mobile platform evolutions
+- 📈 Growth driver doubling user metrics while maintaining exceptional stability
 
-- 📫 How to reach me: 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/prasannajeet/)
+#### 🔍 Always exploring:
+KMM architecture patterns, advanced mobile DevOps, cross-platform optimizations
 
--->
+#### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/prasannajeet/)
